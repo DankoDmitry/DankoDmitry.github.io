@@ -74,16 +74,6 @@
       href="https://dankodmitry.github.io/ru/category/demo/"
     /></url>
   <url>
-    <loc></loc><lastmod>2022-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /></url>
-  <url>
     <loc>https://dankodmitry.github.io/ru/post/</loc><lastmod>2022-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -112,6 +102,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://dankodmitry.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc></loc><lastmod>2022-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
     /></url>
   <url>
     <loc>https://dankodmitry.github.io/ru/post/week-from-may-30-to-june-5/</loc><lastmod>2022-06-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
